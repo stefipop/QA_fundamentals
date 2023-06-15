@@ -1,3 +1,2 @@
 ## QA_fundamentals
-
-###first steps in QA education at SoftUni
+<h3>first steps in QA education at SoftUni</h3>
