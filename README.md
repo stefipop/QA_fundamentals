@@ -1,3 +1,2 @@
-# QA_fundamentals
-
-<h4 align="center">Hello World! 👋 I'm Stefka Popovska</h4>
+## QA_fundamentals
+<h4>Hello World! 👋 I'm Stefka Popovska</h4>
